@@ -6,4 +6,4 @@
 ## the delete file allows you to delete the resource you create or the resource in the server, but to do that 
 you need to know the id for the resource you want to delete and change the resource type and the id in the url section.
 
-## the other important thing is before you execute the program you need to add all the external jar library as dependecy to the project.
+## to use the script you need to add all the external jar library  as dependecy to the project.
